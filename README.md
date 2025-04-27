@@ -52,8 +52,9 @@ if __name__ == "__main__":
 ### 1) 공격
 ![Image](https://github.com/user-attachments/assets/6fda17c9-1b70-448d-8824-41d62d5fbd80)
 1. /ddns 경로에 POST 요청을 전송한다
-2. hostname 값에 명령어를 삽입한다 [example.com](http://example.com); id 로 기존 명령어를 끝내고 id (현재 사용자 정보)를 출력하는 명령을 실행한다
-→ 호스트 네임을 등록하다가 슬쩍 원하는 명령어를 실행하는 것
+2. hostname 값에 명령어를 삽입한다   
+   [example.com](http://example.com); id 로 기존 명령어를 끝내고 id (현재 사용자 정보)를 출력하는 명령을 실행한다   
+   → 호스트 네임을 등록하다가 슬쩍 원하는 명령어를 실행하는 것
 
 ### 2) 결과 (서버 터미널 로그)
 ![image](https://github.com/user-attachments/assets/db7c9479-28a4-47e5-8d1f-227f9803fabd)
